@@ -14,7 +14,7 @@ h3 {
   align-items: center;
   background-color: #ecedf5;
 
-  width: 80%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
 
@@ -28,7 +28,7 @@ h3 {
   height: 7rem;
   object-fit: cover;
   border-radius: 50%;
-  border: 2px solid rgb(162, 162, 168);
+  border: 2px solid rgb(64, 64, 136);
   margin-top: 1rem;
 }
 
@@ -56,7 +56,7 @@ h3 {
 }
 
 .technology:hover {
-  background-color: #476aca;
+  background-color: #0a319c;
   scale: 1.03;
 }
 
